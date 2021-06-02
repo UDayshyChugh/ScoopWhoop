@@ -1,0 +1,173 @@
+.header-main{
+    height: 75.3vh;
+    background-image: url(./images/photo1.jpg);   
+}
+.header-readarticle{
+    font-weight: 900;
+    margin-left: 21vh;
+    padding-top: 44vh;
+    color: white;
+    font-size: 21pt;
+    
+
+}
+.sw-entmnt-btn{
+    background: linear-gradient(
+        158deg
+        , rgba(76,97,230,1) 17%, rgba(60,12,117,0.7318277652858018) 62%, rgba(192,44,255,1) 100%);
+            padding-top: 0.5vh;
+            border: none;
+            padding-right: 2vh;
+                       padding-left: 2vh;
+    color: white;
+    font-weight: 700;
+    cursor: pointer;
+
+}
+.a-href-ent{
+
+    color: white;
+    text-decoration: none; 
+}
+.sw-readarticle-btn{
+    border: none;
+    background-image: url(./images/article-read.png); 
+    color: transparent;  
+     font-weight: 700;
+     cursor: pointer;
+}
+.sw-readarticle-btn-btn{
+
+    font-size: 0.5vh;
+    padding-right: 2vh;
+    padding-left: 2vh;
+    cursor: pointer;
+}
+.nav-btn{
+    color: #747070;
+    border: none;
+    font-size: 2.5vh;
+    padding-right: 6vh;
+    padding-top: 1vh;
+    margin-top: 13vh;
+    padding-bottom: 1vh;
+    padding-left: 6vh;
+    font-weight: 700;
+    cursor: pointer;
+}
+.nav-btn.active{
+   background:  linear-gradient(
+        158deg
+        , rgba(76,97,230,1) 17%, rgba(60,12,117,0.7318277652858018) 62%, rgba(192,44,255,1) 100%);     
+    border: none;
+    font-size: 2.5vh;
+    padding-right: 6vh;
+    padding-top: 1vh;
+    margin-top: 13vh;
+    padding-bottom: 1vh;
+    padding-left: 6vh;
+    font-weight: 700;
+    color: white;
+    cursor: pointer;
+}
+.nav-btn-btn{
+    margin-left: 28vh;
+}
+.btn-line{
+    background: linear-gradient(
+        140deg
+        , rgba(4, 104, 171, 0.718) 20%, rgba(59, 119, 223, 0.801) 52%, rgba(255,0,198,0.4150035014005602) 100%);
+    height: 0.17vh;
+    width: 133vh;
+}
+.sw-buttons-main{
+
+    background-color: transparent;
+    color: #1b85e8;
+    font-weight: 700;
+    margin-left: 6vh;
+    font-size: 1.9vh;
+    border: none;
+    cursor: pointer;
+    transition: ' 0.6s' ;
+}
+.sw-buttons-main:hover {
+    color: #1b85e8;
+    font-size: 2.5vh;
+    font-weight: 700;
+    margin-left: 4vh;
+    cursor: pointer;
+}
+.logo-main{
+    padding-top: 2vh;
+    background-image: url(./images/Untitled.png);
+    margin-left: 21vh;
+    border: none;
+    color: transparent;
+    padding: right 2vh;
+    padding-bottom: 4.6vh;
+    padding-right: 3vh;
+    cursor: pointer;
+    
+}
+.sw-icons-bookmark-main{
+    background-color: transparent;
+    color: #1b85e8;
+    font-weight: 700;
+    margin-left: 20vh;
+    font-size: 2vh;
+    border: none;
+    cursor: pointer;
+}
+.sw-icons-bookmark-main:hover {
+    color: #1b85e8;
+    font-size: 2.5vh;
+    font-weight: 700;
+    cursor: pointer;
+    
+}
+.sw-icons-main{
+    background-color: transparent;
+    color:#1b85e8;
+    font-weight: 700;
+    margin-left: 4vh;
+    font-size: 2vh;
+    border: none;
+    cursor: pointer;
+
+}
+.sw-icons-main:hover {
+    color: #1b85e8;
+    font-size: 2.5vh;
+    font-weight: 700;
+    margin-left: 4vh;
+    cursor: pointer;
+}
+.sw-icons-menu-main{
+    background-color: transparent;
+    color: #1b85e8;
+    font-weight: 700;
+    margin-left: 7vh;
+    font-size: 2vh;
+    border: none;
+    cursor: pointer;
+
+}
+.sw-icons-menu-main:hover {
+    color: #1b85e8;
+    font-size: 2.5vh;
+    font-weight: 700;
+    cursor: pointer;
+  }
+.action-center{
+    background: linear-gradient(
+        180deg
+        , rgba(0,0,0,0.8354692218684349) 0%, rgba(0,0,0,0.6587009803921569) 45%, rgba(0,0,0,0) 100%);
+    padding-top: 4vh;
+    margin-bottom: -13vh;;
+    cursor: pointer;
+}
+.btn-div-main{
+    margin-top: -6vh;
+    margin-left: 16vh;
+}

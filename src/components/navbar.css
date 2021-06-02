@@ -1,0 +1,86 @@
+.sw-logo-nav{
+
+    font-family: Roboto, fantasy;
+    font-weight: 800;
+    font-size: 4vh;
+    background-color: white;
+    color: rgb(27, 145, 255);
+    border: none;
+    transform-origin: 5%;
+    font-style: italic;
+    margin-top: 2vh;
+    padding-right: 2vh;
+    cursor: pointer;
+    transform: rotate(-17deg);
+}
+.sw-buttons {
+    padding-left: 4vh;
+    padding-right: 4vh;
+    color: #747070;
+    background-color: white;
+    border: none;
+    font-size: 14px;
+    cursor: pointer;
+}
+.sw-buttons:hover {
+    padding-left: 3vh;
+    padding-right: 3vh;
+    color: #747070;
+    background-color: white;
+    border: none;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.sw-icons-bookmark{
+    margin-left: 18vh;
+    background-color: white;
+    border: none;
+    font-size: 2.5vh;
+    padding-right: 4vh;
+    color: rgb(27, 145, 255);
+    cursor: pointer;
+}
+.sw-icons{
+    background-color: white;
+    border: none;
+    font-size: 2.5vh;
+    padding-right: 4vh;
+    color: rgb(27, 145, 255);
+    cursor: pointer;
+}
+.sw-icons-menu{
+    margin-left: 4vh;
+    background-color: white;
+    border: none;
+    font-size: 2.8vh;
+    padding-right: 4vh;
+    color: rgb(27, 145, 255);
+    cursor: pointer;
+}
+.sw-icons-bookmark:hover{
+    margin-left: 18vh;
+    background-color: white;
+    border: none;
+    font-size: 3vh;
+    padding-right: 4vh;
+    color: rgb(27, 145, 255);
+    cursor: pointer;
+}
+.sw-icons:hover{
+    background-color: white;
+    border: none;
+    font-size: 3vh;
+    padding-right: 4vh;
+    color: rgb(27, 145, 255);
+    cursor: pointer;
+}
+.sw-icons-menu:hover{
+    margin-left: 4vh;
+    background-color: white;
+    border: none;
+    font-size: 3vh;
+    padding-right: 4vh;
+    color: rgb(27, 145, 255);
+    cursor: pointer;
+}
